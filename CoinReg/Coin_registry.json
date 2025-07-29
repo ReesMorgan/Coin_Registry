@@ -242,5 +242,127 @@
       }
     ],
     "updated": "2025-07-29T14:12:20.112Z"
+  },
+  "0x31EF2d2f8e16B56a639F873e2f23D5C27aE0c248": {
+    "name": "Barry Jalbert2 Coin",
+    "symbol": "BLJC",
+    "decimals": 18,
+    "network": 8410,
+    "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BLJC.png",
+    "abi": [
+      {
+        "name": "name",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [
+          {
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "name": "symbol",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [
+          {
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "name": "decimals",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [
+          {
+            "type": "uint8"
+          }
+        ]
+      },
+      {
+        "name": "totalSupply",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [
+          {
+            "type": "uint256"
+          }
+        ]
+      },
+      {
+        "name": "balanceOf",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [
+          {
+            "name": "account",
+            "type": "address"
+          }
+        ],
+        "outputs": [
+          {
+            "type": "uint256"
+          }
+        ]
+      },
+      {
+        "name": "transfer",
+        "type": "function",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          {
+            "name": "recipient",
+            "type": "address"
+          },
+          {
+            "name": "amount",
+            "type": "uint256"
+          }
+        ],
+        "outputs": [
+          {
+            "type": "bool"
+          }
+        ]
+      },
+      {
+        "name": "mint",
+        "type": "function",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          {
+            "name": "to",
+            "type": "address"
+          },
+          {
+            "name": "amount",
+            "type": "uint256"
+          },
+          {
+            "name": "reason",
+            "type": "string"
+          }
+        ],
+        "outputs": []
+      },
+      {
+        "name": "burn",
+        "type": "function",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          {
+            "name": "amount",
+            "type": "uint256"
+          }
+        ],
+        "outputs": []
+      }
+    ],
+    "updated": "2025-07-29T15:38:36.756Z"
   }
 }
