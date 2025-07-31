@@ -1,0 +1,8 @@
+{
+  "name": "Crypto Key Ledger Token List",
+  "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/logo.png",
+  "keywords": ["tokens", "registry", "sepolia"],
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "timestamp": "2025-07-31T00:00:00+00:00",
+  "tokens": []
+}
