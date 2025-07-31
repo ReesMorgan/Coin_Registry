@@ -1,0 +1,25 @@
+{
+  "name": "My Token List",
+  "logoURI": "",
+  "keywords": [
+    "tokens",
+    "sepolia",
+    "mainnet"
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "timestamp": "2025-07-31T13:20:03.671Z",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xF77Ad061Fcd761E3Bc9575D5684D0ac5C510e867",
+      "name": "Barry Jalbert Sepolia Coin",
+      "symbol": "BJS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJS.png"
+    }
+  ]
+}
