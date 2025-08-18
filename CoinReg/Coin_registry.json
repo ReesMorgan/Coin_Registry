@@ -486,5 +486,13 @@
       }
     ],
     "updated": "2025-07-30T13:08:34.633Z"
+  },
+  "0x130da447364F234b18cC3065c4312afC53208b18": {
+    "name": "Barry Jalbert Coin",
+    "symbol": "BJC",
+    "decimals": 18,
+    "network": 8410,
+    "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJC.png",
+    "updated": "2025-08-18T17:38:58.784Z"
   }
 }
