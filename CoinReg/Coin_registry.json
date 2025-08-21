@@ -1,86 +1,88 @@
-"0x130da447364f234b18cc3065c4312afc53208b18": {
-  "name": "Barry Jalbert Coin",
-  "symbol": "BJC",
-  "decimals": 18,
-  "network": 8410,
-  "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BLJC.png",
-  "abi": [
-    {
-      "name": "name",
-      "type": "function",
-      "stateMutability": "view",
-      "inputs": [],
-      "outputs": [{ "type": "string" }]
-    },
-    {
-      "name": "symbol",
-      "type": "function",
-      "stateMutability": "view",
-      "inputs": [],
-      "outputs": [{ "type": "string" }]
-    },
-    {
-      "name": "decimals",
-      "type": "function",
-      "stateMutability": "view",
-      "inputs": [],
-      "outputs": [{ "type": "uint8" }]
-    },
-    {
-      "name": "totalSupply",
-      "type": "function",
-      "stateMutability": "view",
-      "inputs": [],
-      "outputs": [{ "type": "uint256" }]
-    },
-    {
-      "name": "balanceOf",
-      "type": "function",
-      "stateMutability": "view",
-      "inputs": [{ "name": "account", "type": "address" }],
-      "outputs": [{ "type": "uint256" }]
-    },
-    {
-      "name": "transfer",
-      "type": "function",
-      "stateMutability": "nonpayable",
-      "inputs": [
-        { "name": "recipient", "type": "address" },
-        { "name": "amount", "type": "uint256" }
-      ],
-      "outputs": [{ "type": "bool" }]
-    },
-    {
-      "name": "approve",
-      "type": "function",
-      "stateMutability": "nonpayable",
-      "inputs": [
-        { "name": "spender", "type": "address" },
-        { "name": "amount", "type": "uint256" }
-      ],
-      "outputs": [{ "type": "bool" }]
-    },
-    {
-      "name": "allowance",
-      "type": "function",
-      "stateMutability": "view",
-      "inputs": [
-        { "name": "owner", "type": "address" },
-        { "name": "spender", "type": "address" }
-      ],
-      "outputs": [{ "type": "uint256" }]
-    },
-    {
-      "name": "transferFrom",
-      "type": "function",
-      "stateMutability": "nonpayable",
-      "inputs": [
-        { "name": "sender", "type": "address" },
-        { "name": "recipient", "type": "address" },
-        { "name": "amount", "type": "uint256" }
-      ],
-      "outputs": [{ "type": "bool" }]
-    }
-  ],
-  "updated": "2025-08-21T12:00:00.000Z"
+{
+  "0x130da447364f234b18cc3065c4312afc53208b18": {
+    "name": "Barry Jalbert Coin",
+    "symbol": "BJC",
+    "decimals": 18,
+    "network": 8410,
+    "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BLJC.png",
+    "abi": [
+      {
+        "name": "name",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [{ "type": "string" }]
+      },
+      {
+        "name": "symbol",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [{ "type": "string" }]
+      },
+      {
+        "name": "decimals",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [{ "type": "uint8" }]
+      },
+      {
+        "name": "totalSupply",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [],
+        "outputs": [{ "type": "uint256" }]
+      },
+      {
+        "name": "balanceOf",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [{ "name": "account", "type": "address" }],
+        "outputs": [{ "type": "uint256" }]
+      },
+      {
+        "name": "transfer",
+        "type": "function",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          { "name": "recipient", "type": "address" },
+          { "name": "amount", "type": "uint256" }
+        ],
+        "outputs": [{ "type": "bool" }]
+      },
+      {
+        "name": "approve",
+        "type": "function",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          { "name": "spender", "type": "address" },
+          { "name": "amount", "type": "uint256" }
+        ],
+        "outputs": [{ "type": "bool" }]
+      },
+      {
+        "name": "allowance",
+        "type": "function",
+        "stateMutability": "view",
+        "inputs": [
+          { "name": "owner", "type": "address" },
+          { "name": "spender", "type": "address" }
+        ],
+        "outputs": [{ "type": "uint256" }]
+      },
+      {
+        "name": "transferFrom",
+        "type": "function",
+        "stateMutability": "nonpayable",
+        "inputs": [
+          { "name": "sender", "type": "address" },
+          { "name": "recipient", "type": "address" },
+          { "name": "amount", "type": "uint256" }
+        ],
+        "outputs": [{ "type": "bool" }]
+      }
+    ],
+    "updated": "2025-08-21T12:00:00.000Z"
+  }
 }
