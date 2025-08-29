@@ -1,11 +1,11 @@
 {
   "0x365f93605248d02ff21433b9e91eb91ccce74ca8": {
-    "name": "Barry Jalbert Coin",
-    "symbol": "BJC",
+    "name": "Crypto Key Ledger",
+    "symbol": "CKLD",
     "address": "0x365F93605248D02FF21433B9e91EB91cCce74ca8",
     "decimals": 18,
     "network": 8410,
-    "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJC.png",
+    "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/CKLD.png",
     "abi": [
       {
         "name": "name",
@@ -152,7 +152,7 @@
         ]
       }
     ],
-    "updated": "2025-08-28T20:34:36.574Z"
+    "updated": "2025-08-29T10:33:15.428Z"
   },
   "0xf4379fab2f23dcea56eecad065ccba7cd602ac68": {
     "name": "World Auto Data",
