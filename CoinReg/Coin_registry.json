@@ -1,11 +1,9 @@
-{
-  "0x365f93605248d02ff21433b9e91eb91ccce74ca8": {
-    "name": "Barry Jalbert Coin",
-    "symbol": "BJC",
-    "address": "0x365F93605248D02FF21433B9e91EB91cCce74ca8",
-    "decimals": 18,
-    "network": 8410,
-    "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJC.png",
-    "updated": "2025-09-06T15:00:00.000Z"
-  }
+"0x365F93605248D02FF21433B9e91EB91cCce74ca8": {
+  "name": "Barry Jalbert Coin",
+  "symbol": "BJC",
+  "address": "0x365F93605248D02FF21433B9e91cCce74ca8",
+  "decimals": 18,
+  "network": 8410,
+  "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJC.png",
+  "updated": "2025-09-06T15:00:00.000Z"
 }
