@@ -316,6 +316,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/PCPV.png",
+    "category": "MED_INS"
     "abi": [
       {
         "name": "name",
@@ -471,6 +472,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/TCVD.png",
+    "category": "MED_INS"
     "abi": [
       {
         "name": "name",
@@ -781,6 +783,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/TEND.png",
+    "category": "DISCOUNTS"
     "abi": [
       {
         "name": "name",
@@ -1091,6 +1094,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/OFSD.png",
+    "category": "DISCOUNTS"
     "abi": [
       {
         "name": "name",
