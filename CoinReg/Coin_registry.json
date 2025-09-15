@@ -6,6 +6,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJC.png",
+    "category": "ASSETS"
     "abi": [
       {
         "name": "name",
@@ -161,6 +162,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/CKLD.png",
+    "category": "ASSETS"
     "abi": [
       {
         "name": "name",
@@ -628,6 +630,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/OCD.png",
+    "category": "VOUCHERS"
     "abi": [
       {
         "name": "name",
@@ -939,6 +942,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/NCCD.png",
+    "category": "ASSETS"
     "abi": [
       {
         "name": "name",
