@@ -1,12 +1,14 @@
 {
+    "0x365F93605248D02FF21433B9e91EB91cCce74ca8": {
   "0x365f93605248d02ff21433b9e91eb91ccce74ca8": {
-    "name": "Barry Jalbert Coin",
-    "symbol": "BJC",
+"name": "Barry Jalbert Coin",
+"symbol": "BJC",
+    "address": "0x365F93605248D02FF21433B9e91cCce74ca8",
     "address": "0x365F93605248D02FF21433B9e91EB91cCce74ca8",
-    "decimals": 18,
-    "network": 8410,
-    "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJC.png",
-    "category": "ASSETS",
+"decimals": 18,
+"network": 8410,
+"logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/BJC.png",
+    "updated": "2025-09-06T15:00:00.000Z"
     "abi": [
       {
         "name": "name",
@@ -162,7 +164,6 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/CKLD.png",
-    "category": "ASSETS",
     "abi": [
       {
         "name": "name",
@@ -318,7 +319,6 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/PCPV.png",
-    "category": "MED_INS",
     "abi": [
       {
         "name": "name",
@@ -474,7 +474,6 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/TCVD.png",
-    "category": "MED_INS",
     "abi": [
       {
         "name": "name",
@@ -630,7 +629,6 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/OCD.png",
-    "category": "VOUCHERS",
     "abi": [
       {
         "name": "name",
@@ -786,7 +784,6 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/TEND.png",
-    "category": "DISCOUNTS",
     "abi": [
       {
         "name": "name",
@@ -942,7 +939,6 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/NCCD.png",
-    "category": "ASSETS",
     "abi": [
       {
         "name": "name",
@@ -1098,7 +1094,6 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/OFSD.png",
-    "category": "DISCOUNTS",
     "abi": [
       {
         "name": "name",
@@ -1246,5 +1241,5 @@
       }
     ],
     "updated": "2025-09-04T15:08:35.357Z"
-  }
+}
 }
