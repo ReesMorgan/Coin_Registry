@@ -1410,6 +1410,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/PZGC.png",
+    "category": "GIFT_CARDS",
     "abi": [
       {
         "name": "name",
