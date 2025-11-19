@@ -1566,6 +1566,7 @@
     "decimals": 18,
     "network": 8410,
     "logoURI": "https://raw.githubusercontent.com/ReesMorgan/Coin_Registry/main/CoinLogos/SRIX.png",
+    "category": "ASSETS",
     "abi": [
       {
         "name": "name",
